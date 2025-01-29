@@ -23,7 +23,7 @@ int main(){
 
           for (int k = 0; k < n-1; k++){
 
-               cout << char(x--) << " ";
+               cout << char(x--) << "a ";
           }
 
                cout << endl;
